@@ -2,8 +2,6 @@ version: 0.0.1
 type: plugin
 author: crazywoola
 name: flomo
-tags:
-- productitvity
 label:
   en_US: Flomo
   ja_JP: Flomo
