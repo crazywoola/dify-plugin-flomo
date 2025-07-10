@@ -1,23 +1,15 @@
-## flomo
+## flomo 浮墨笔记
 
 **Author:** crazywoola
-**Version:** 0.0.1
+**Version:** 0.0.2
 **Type:** tool
+**Repository** : https://github.com/crazywoola/dify-plugin-flomo
+**Marketplace** : https://marketplace.dify.ai/plugins/crazywoola/flomo
 
-### Description
+### 概览
 
-This is a flomo plugin to note down your thoughts. It allows you to create notes in your Flomo account using the Flomo API.
+flomo 浮墨笔记，是一款全平台的卡片笔记，聚焦帮你记录更多想法与灵感，以及更好回顾过往记录。
 
-#### Authentication
+#### 验证
 
-Get the API URL from your [Flomo account settings](https://v.flomoapp.com/mine?source=incoming_webhook). The plugin uses this URL to interact with the Flomo API. 
-#### Usage
-
-To use this plugin, you need to provide the content of the note you want to create. The plugin will send a request to the Flomo API to create a new note with the provided content.
-### Example
-
-```json
-{
-  "content": "This is a test note"
-}
-```
+从你的 [Flomo 账户设置](https://v.flomoapp.com/mine?source=incoming_webhook) 获取 API URL。插件会使用该 URL 与 Flomo API 进行交互。
