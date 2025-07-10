@@ -13,3 +13,7 @@ flomo 浮墨笔记，是一款全平台的卡片笔记，聚焦帮你记录更�
 #### 验证
 
 从你的 [Flomo 账户设置](https://v.flomoapp.com/mine?source=incoming_webhook) 获取 API URL。插件会使用该 URL 与 Flomo API 进行交互。
+
+### flomo 相关问题
+
+[帮助文档](https://help.flomoapp.com/)
