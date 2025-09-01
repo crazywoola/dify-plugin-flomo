@@ -1,37 +1,19 @@
-# Flomo Dify Plugin
+## flomo Note
 
-This plugin integrates Flomo with Dify, allowing users to send notes to Flomo directly through Dify workflows.
+**Author:** crazywoola
+**Version:** 0.0.2
+**Type:** tool
+**Repository** : https://github.com/crazywoola/dify-plugin-flomo
+**Marketplace** : https://marketplace.dify.ai/plugins/crazywoola/flomo
 
-## Features
-- Send notes to Flomo from Dify
-- Easy configuration via YAML files
-- Supports custom note content and tags
+### Overview
 
-## Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/crazywoola/dify-plugin-flomo.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Configure your Flomo API key in `provider/flomo.yaml` and `tools/flomo.yaml`.
+flomo Note is a cross-platform card-taking app, focused on helping you record more ideas and inspirations, as well as better review of past records.
 
-## Usage
-- Use the provided Python scripts and YAML configuration to send notes to Flomo.
-- Integrate with Dify workflows as needed.
+#### Authentication
 
-## File Structure
-- `main.py`: Main entry point for the plugin
-- `provider/flomo.py`, `tools/flomo.py`: Flomo integration logic
-- `utils/flomo_utils.py`: Utility functions
-- `manifest.yaml`: Plugin manifest
-- `requirements.txt`: Python dependencies
-- `_assets/flomo.png`: Flomo logo
+Get the API URL from your [Flomo account settings](https://v.flomoapp.com/mine?source=incoming_webhook). The plugin will use this URL to interact with the Flomo API.
 
-## License
-This project is licensed under the MIT License.
+### flomo Related Questions
 
-## Privacy
-See `PRIVACY.md` for details on data handling and privacy.
+[Help Documentation](https://help.flomoapp.com/)
