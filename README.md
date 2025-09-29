@@ -1,7 +1,7 @@
 ## flomo
 
 **Author:** crazywoola
-**Version:** 0.0.2
+**Version:** 0.0.4
 **Type:** tool
 **Repository** : https://github.com/crazywoola/dify-plugin-flomo
 **Marketplace** : https://marketplace.dify.ai/plugins/crazywoola/flomo
