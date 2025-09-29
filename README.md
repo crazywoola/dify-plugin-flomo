@@ -1,4 +1,4 @@
-## flomo 浮墨笔记
+## flomo
 
 **Author:** crazywoola
 **Version:** 0.0.2
@@ -6,14 +6,14 @@
 **Repository** : https://github.com/crazywoola/dify-plugin-flomo
 **Marketplace** : https://marketplace.dify.ai/plugins/crazywoola/flomo
 
-### 概览
+### Overview
 
-flomo 浮墨笔记，是一款全平台的卡片笔记，聚焦帮你记录更多想法与灵感，以及更好回顾过往记录。
+flomo Note is a cross-platform card-taking app, focused on helping you record more ideas and inspirations, as well as better review of past records.
 
-#### 验证
+#### Authentication
 
-从你的 [Flomo 账户设置](https://v.flomoapp.com/mine?source=incoming_webhook) 获取 API URL。插件会使用该 URL 与 Flomo API 进行交互。
+Get the API URL from your [Flomo account settings](https://v.flomoapp.com/mine?source=incoming_webhook). The plugin will use this URL to interact with the Flomo API.
 
-### flomo 相关问题
+### flomo Related Questions
 
-[帮助文档](https://help.flomoapp.com/)
+[Help Documentation](https://help.flomoapp.com/)
